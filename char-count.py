@@ -1,4 +1,5 @@
 # This program is to count the character
+# configure the github with jenkins 
 
 print("")
 string = input("Please enter the content : ").lower()
@@ -9,3 +10,4 @@ for i in range(len(string)):
         a = a + 1
 
 print(f"The character {count} has been used {a} times in the given content. ")
+print("Hello")
