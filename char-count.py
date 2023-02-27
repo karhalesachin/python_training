@@ -1,4 +1,4 @@
-# This program is to count the character entered in Input.
+# This program is to count the character
 
 print("")
 string = input("Please enter the content : ").lower()
